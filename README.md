@@ -19,3 +19,4 @@ This project is a simple bank management system built using Python, Tkinter for 
 1. Clone the repository:
    ```bash
    git clone https://github.com/mkkotlin/python_gui_bankmanagement.git
+2. python final_bank_lootera.py
